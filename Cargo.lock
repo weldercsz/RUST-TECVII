@@ -3,14 +3,6 @@
 version = 3
 
 [[package]]
-name = "RUST-TECV"
-version = "0.1.0"
-dependencies = [
- "ggez",
- "rand",
-]
-
-[[package]]
 name = "ab_glyph"
 version = "0.2.21"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -893,6 +885,14 @@ dependencies = [
  "toml",
  "winit",
  "zip",
+]
+
+[[package]]
+name = "ggez_cobrinha"
+version = "0.1.0"
+dependencies = [
+ "ggez",
+ "rand",
 ]
 
 [[package]]

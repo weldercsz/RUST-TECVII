@@ -1,7 +1,8 @@
 [package]
-name = "RUST-TECV"
+name = "ggez_cobrinha"
 version = "0.1.0"
 
+edition = "2018"
 
 [dependencies]
 ggez = "0.6.0"

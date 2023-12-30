@@ -1,5 +1,3 @@
+
 /target
 **/*.rs.bk
-
-# Track for binaries
-Cargo.lock
